@@ -1,7 +1,7 @@
 Package.describe({
   name: 'mys:mys11',
   summary: 'Reproduction',
-  version: '1.3.0',
+  version: '1.3.1_1',
   documentation: null
 });
 
